@@ -98,5 +98,18 @@
 	margin-top: 90px;
 	margin-left: 30px;
 }
+/*section 1 end*/
+
+/*section 2 start*/
 
 
+
+.section-2-photo {
+	position: relative;
+	display: inline-block;
+}
+.img7 {
+	position: relative;
+	display: inline-block;
+	
+}
